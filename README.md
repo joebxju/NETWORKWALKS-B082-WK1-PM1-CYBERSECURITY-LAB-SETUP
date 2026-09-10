@@ -1,44 +1,6 @@
 <h1 align="center">Cybersecurity Lab Environment Setup</h1>
 
-<p align="center">
-</p>
-<p align="center">
 
-  <img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&labelColor=2563EB&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
-
-  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-111827?style=for-the-badge&labelColor=0EA5E9&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-
-  <img src="https://img.shields.io/badge/VirtualBox-v7.2.14-111827?style=for-the-badge&labelColor=2563EB&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&labelColor=475569&logo=linux&logoColor=white" alt="Linux" />
-
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&labelColor=0891B2" alt="Networking" />
-
-  <img src="https://img.shields.io/badge/Penetration%20Testing-111827?style=for-the-badge&labelColor=7C3AED&logo=kalilinux&logoColor=white" alt="Penetration Testing" />
-
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&labelColor=4F46E5&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
-
-  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-111827?style=for-the-badge&labelColor=0891B2" alt="Network" />
-
-  <img src="https://img.shields.io/badge/Virtualization-111827?style=for-the-badge&labelColor=2563EB&logo=virtualbox&logoColor=white" alt="Virtualization" />
-
-  <img src="https://img.shields.io/badge/Networkwalks-111827?style=for-the-badge&labelColor=2563EB" alt="Networkwalks" />
-
-  <img src="https://img.shields.io/badge/Mentor-Waqas%20Karim%20(CCIE)-111827?style=for-the-badge&labelColor=475569" alt="Waqas Karim CCIE" />
-
-  <img src="https://img.shields.io/badge/Developer-Syed%20Bilal%20Ahmed-111827?style=for-the-badge&labelColor=0F766E&logo=github&logoColor=white" alt="Joel Biju" />
-</p>
-<p align="center">
-  <strong
-     
-  <strong>networkwalks-B082-week1-Cybersecurity-lab-setup</strong>
-</p>
-
-<p align="center">
-  VirtualBox • Kali Linux • Virtual Networking • Linux Networking
-</p>
-
----
 # Lab Purpose
 
 The purpose of this lab is to build a **controlled and isolated cybersecurity environment** using Oracle VirtualBox and Kali Linux.
@@ -225,7 +187,7 @@ Created a **VirtualBox snapshot** after completing the initial Kali Linux lab co
 The snapshot provides a **safe restore point** before continuing with future cybersecurity labs and experiments.
 
 
-# 🏗️ Lab Architecture
+# Lab Architecture
 
 ```text
 Host Machine
